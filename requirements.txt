@@ -1,2 +1,2 @@
 pip-install-test  ; sys_platform  != 'linux'
-pycow  ; sys_platform  == 'darwin'
+pycow  ; sys_platform  == 'linux'
